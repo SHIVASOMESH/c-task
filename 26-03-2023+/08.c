@@ -6,7 +6,7 @@ int main()
 	char str1[]="sravani";
 	char str2[]="somesh";
 	
-	str rvr(str1,str2);
+	strcat(str1,str2);
 	printf("%s",str1);
 	
 	
