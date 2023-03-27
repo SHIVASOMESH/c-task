@@ -3,7 +3,7 @@
 
 int main()
 {
-	char str1[]="kajal";
+	char str1[]="sravani";
 	char str2[]="somesh";
 	
 	str rvr(str1,str2);
